@@ -45,15 +45,15 @@ print(Norm_of_matrix)
 
 ## Output:
 ### 1-Norm of a Matrix
-![s1](https://github.com/user-attachments/assets/20340b9b-4a10-4ded-9160-afe709ba23ba)
-
+![s1](https://github.com/user-attachments/assets/93f61611-21e2-47d4-a9f3-1dbfa9f4b6bb)
 
 ### 2-Norm of a Matrix
-![s2](https://github.com/user-attachments/assets/c288a8ae-5ea5-4c8f-9921-e0b68202236e)
+![s2](https://github.com/user-attachments/assets/18eb1050-6f82-435b-bef7-4cab8bebff32)
+
+###Infinity Norm of a Matrix
 
 
-### Infinity Norm of a Matrix
-![s3](https://github.com/user-attachments/assets/0a7ce0ff-4d37-433d-ac3f-d2126fc7c073)
+![s3](https://github.com/user-attachments/assets/8a4bfb6e-6f7f-4d54-a00e-2c3291c77720)
 
 
 ## Result
